@@ -1,0 +1,13 @@
+node_modules/
+.env
+uploads/
+backend/uploads/*
+!backend/uploads/.gitkeep
+chroma_db/
+__pycache__/
+*.pyc
+dist/
+build-out/
+.npm-cache/
+.vite-cache/
+.DS_Store

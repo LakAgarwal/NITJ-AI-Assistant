@@ -1,0 +1,9 @@
+pymupdf
+chromadb
+sentence-transformers
+requests
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+python-docx
